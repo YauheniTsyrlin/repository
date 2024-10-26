@@ -1,5 +1,5 @@
 name: Traccar
-version: 0.26.0
+version: 0.26.1
 slug: traccar
 description: Modern GPS Tracking Platform
 url: https://github.com/YauheniTsyrlin/addon-traccar
@@ -31,4 +31,4 @@ schema:
   ssl: bool
   certfile: str
   keyfile: str
-image: ghcr.io/hassio-addons/traccar/{arch}
+image: ghcr.io/YauheniTsyrlin/traccar/{arch}
