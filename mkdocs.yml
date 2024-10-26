@@ -8,7 +8,7 @@ copyright: "Copyright 2017-2020 - Franck Nijhof."
 
 # Repository
 repo_name: "hassio-addons"
-repo_url: "https://github.com/hassio-addons/repository"
+repo_url: "https://github.com/YauheniTsyrlin/repository"
 edit_uri: ""
 
 # Theme configuration
@@ -32,7 +32,7 @@ extra:
   manifest: "manifest.webmanifest"
   social:
     - icon: fontawesome/brands/github-alt
-      link: "https://github.com/hassio-addons"
+      link: "https://github.com/YauheniTsyrlin"
     - icon: fontawesome/brands/twitter
       link: "https://twitter.com/hassioaddons"
     - icon: fontawesome/brands/instagram
