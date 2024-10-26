@@ -162,9 +162,9 @@ addons:
     target: tor
     image: ghcr.io/hassio-addons/tor/{arch}
   traccar:
-    repository: hassio-addons/addon-traccar
+    repository: YauheniTsyrlin/addon-traccar
     target: traccar
-    image: ghcr.io/hassio-addons/traccar/{arch}
+    image: ghcr.io/YauheniTsyrlin/traccar/{arch}
   unifi:
     repository: hassio-addons/addon-unifi
     target: unifi
